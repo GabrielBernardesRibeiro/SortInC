@@ -1,0 +1,45 @@
+incluir bibliotecas que serão utilizadas
+definindo valores para os sort
+declarando os sort
+declarando função para ver se é um numero
+main
+	looping principal
+		perguntas sobre qual sort escolher
+		if sort 1
+			looping sort 1
+				perguntar tamanho do vetor
+				verificar se é um numero
+				perguntar valores do vetor
+				verificar se são numeros
+				chamar a funçaõ do sort 1
+				mostrar resultado
+				voltar ao menu/fechar programa
+
+		else if sort 2
+			looping sort 2
+				perguntar tamanho do vetor
+				verificar se é um numero
+				perguntar valores do vetor
+				verificar se são numeros
+				chamar a funçaõ do sort 2
+				mostrar resultado
+				voltar ao menu/fechar programa
+
+		else if sort 3
+			looping sort 3
+				perguntar tamanho do vetor
+				verificar se é um numero
+				perguntar valores do vetor
+				verificar se são numeros
+				chamar a funçaõ do sort 3
+				mostrar resultado
+				voltar ao menu/fechar programa
+
+
+construindo checkExit
+construindo checkNumber
+construindo checkSize
+construindo checkValue
+construindo sort 1
+construindo sort 2
+construindo sort 3
